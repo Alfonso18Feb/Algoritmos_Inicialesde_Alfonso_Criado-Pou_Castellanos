@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T08:16:14.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="dOyM2_2ua0AnmyebR5Md" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T08:17:01.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="MZuchUXnsrTVCTDgklyI" version="24.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="645" dy="267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,6 +21,12 @@
             <mxPoint x="595" y="340" as="sourcePoint" />
             <mxPoint x="385" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HTu4sua_rSCn7jfixObi-7" value="1 hotel n rooms" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTu4sua_rSCn7jfixObi-8" value="1 hotel n employees" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
